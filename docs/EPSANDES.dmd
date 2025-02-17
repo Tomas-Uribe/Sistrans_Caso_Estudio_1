@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="EPSANDES" id="846E6F1A-D9E1-7B9E-6219-6BF2BB301B63" version="3.5">
+<createdBy>uribe</createdBy>
+<createdTime>2025-02-14 03:45:55 UTC</createdTime>
+<ownerDesignName>EPSANDES</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>846E6F1A-D9E1-7B9E-6219-6BF2BB301B63</designId>
+</OSDM_Design>
